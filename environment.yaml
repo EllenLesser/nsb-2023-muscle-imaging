@@ -1,0 +1,26 @@
+# nsb_2023_muscle_imaging.yaml
+# 
+# Code to analyze steering muscle imaging data
+# collected during MBL NS&B 2023
+#
+# install: conda env create --file environment.yaml
+# update:  conda env update --file environment.yaml
+name: nsb_2023_muscle_imaging
+#channels:
+#  - conda-forge
+#  - defaults
+dependencies:
+  - python=2.7
+  - pip>=20.1.1
+  - ipython>=4.10.0
+  - ipykernel>=4.10.0
+  - numpy>=1.15.4
+  - h5py>=1.10.5
+  - pyqtgraph>=0.11.0
+  - scipy>=1.2.0
+  - jupyter>=1.0.0
+  - pandas>=0.24.2
+  - pytables>=0.24.2
+  - tifffile>=2019.7.26.2
+  - pyqt>=5.12.3
+
