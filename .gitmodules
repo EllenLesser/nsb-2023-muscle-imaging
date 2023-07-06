@@ -1,0 +1,9 @@
+[submodule "planotaxis"]
+	path = planotaxis
+	url = https://github.com/samcwhitehead/planotaxis.git
+[submodule "muscle_model"]
+	path = muscle_model
+	url = https://github.com/samcwhitehead/muscle_model.git
+[submodule "muscle_imaging_util"]
+	path = muscle_imaging_util
+	url = https://github.com/samcwhitehead/muscle_imaging_util.git
